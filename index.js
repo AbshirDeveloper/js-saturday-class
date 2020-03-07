@@ -83,7 +83,7 @@ if (typeof name !== 'string') {
 else if (typeof name === 'string') {
     // root.innerHTML = "no, the condition is not true"
     // alert("condition two")
-    funcs.newFunction()
+    
 }
 else {
     root.innerHTML = "non of them is correct";
